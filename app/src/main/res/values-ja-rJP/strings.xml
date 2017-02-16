@@ -1,0 +1,17 @@
+<resources>
+    <string name="JA_JP">日本語</string>
+    <string name="app_name">天気</string>
+    <string name="hello_world">こんにちは　光太郎!</string>
+    <string name="wait_text">お待ち下さい&#8230;</string>
+    <string name="action_settings">設定</string>
+    <string name="action_reload">再読み込み</string>
+    <string name="action_fullScreen">全画面表示</string>
+    <string name="action_custWea">カスタマイズ&#8230;</string>
+    <string name="action_about">概要</string>
+    <string name="Toolbar_select">選択:</string>
+    <string name="Toolbar_Tab2">週間</string>
+    <string name="Toolbar_Tab1">今日</string>
+    <string name="Pref_UseLang">言語選択</string>
+    <string name="offLineText" >端末がオフラインです</string>
+    <string name="EN_US">英語</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Pref_UseLang_List_Str">
+        <item>@string/EN_US</item>
+        <item>@string/JA_JP</item>
+    </string-array>
+    <string-array name="Pref_UseLang_List_Val">
+        <item>@string/EN_US_LC</item>
+        <item>@string/JA_JP_LC</item>
+    </string-array>
+    <string-array name="select_object_values">
+        <item>Tokyo</item>
+        <item>Osaka</item>
+        <item>Hachioji</item>
+        <item>Kunitachi</item>
+        <item>Washington</item>
+        <item>Hawaii</item>
+        <item>Ottawa</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
